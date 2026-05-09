@@ -7,6 +7,16 @@ This project is now structured for a public Firebase deployment:
 - `firestore.rules`: shared community posts/comments/likes rules
 - `storage.rules`: media/file upload rules
 
+
+## Watch Demo
+![Watch Demo](assets/Preview_look.mp4)
+
+## A Glance
+
+![tree](assets/First_Section.png)
+![AQI](assets/AQI.png)
+![fund](assets/FundPOST.png)
+
 ## 1. Create Firebase project
 
 1. Go to [Firebase Console](https://console.firebase.google.com/)
