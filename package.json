@@ -1,0 +1,13 @@
+{
+  "name": "climate-change-c2-publish",
+  "version": "1.0.0",
+  "description": "This project is now structured for a public Firebase deployment:",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs"
+}
